@@ -10,8 +10,8 @@ export const siteConfig = {
     github: "https://github.com/sebastianzsu",
   },
   aboutMe:
-    "I'm a full-stack engineer with expertise in distributed systems and a passion for AI-driven, data-powered solutions. I love exploring system design, business logic, and data flows to uncover new ways technology can optimize performance and efficiency at scale.",
-  skills: ["Java", "Python", "JavaScript", "TypeScript", "C#", "Kotlin", "React.js", "Redux", "Spring Boot", "MySQL", "MongoDB", "Redis", "Kafka", "Elasticsearch", "Docker", "AWS", "DynamoDB", "JWT", "API Gateway", "Pandas", "Power BI", "Tableau"],
+    "I'm a full-stack engineer with expertise in agentic and distributed systems and a passion for AI-driven, data-powered solutions. I love exploring system design, business logic, and data flows to uncover new ways technology can optimize performance and efficiency at scale.",
+  skills: ["Java", "Python", "JavaScript", "TypeScript", "C#", "Kotlin", "React.js", "Redux", "Spring Boot", "MySQL", "MongoDB", "Redis", "Kafka", "Elasticsearch", "Docker", "AWS", "DynamoDB", "JWT", "API Gateway", "Pandas", "Power BI", "Tableau", "AI Agent", "OpenAI Agent SDK", "Chatbot", "Prompt Engineering", "RAG", "LangChain", "Ollama", "MCP"],
   projects: [
     {
       name: "Macros Agent",
