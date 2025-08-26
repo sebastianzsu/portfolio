@@ -5,9 +5,9 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
+    linkedin: "https://www.linkedin.com/in/sebastian-su-1750581b6/",
     twitter: "",
-    github: "https://github.com/yourusername",
+    github: "https://github.com/sebastianzsu",
   },
   aboutMe:
     "I'm a full-stack engineer with expertise in distributed systems and a passion for AI-driven, data-powered solutions. I love exploring system design, business logic, and data flows to uncover new ways technology can optimize performance and efficiency at scale.",
