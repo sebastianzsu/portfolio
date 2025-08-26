@@ -14,18 +14,18 @@ export const siteConfig = {
   skills: ["Java", "Python", "JavaScript", "TypeScript", "C#", "Kotlin", "React.js", "Redux", "Spring Boot", "MySQL", "MongoDB", "Redis", "Kafka", "Elasticsearch", "Docker", "AWS", "DynamoDB", "JWT", "API Gateway", "Pandas", "Power BI", "Tableau"],
   projects: [
     {
-      name: "Custom Macros for Dynamics",
+      name: "Macros Agent",
       description:
-        "A feature that lets customers write and run custom JavaScript inside Dynamics to automate repetitive workflows. This became a key enabler for migrating enterprise clients from outdated systems to a modern SaaS platform, making customization both powerful and manageable.",
+        "Developed an AI-driven workflow automation system that converts natural-language descriptions into Dynamics 365 macros(workflows) using Azure OpenAI and Semantic Kernel. Integrated Dynamics API and best practices to ensure compliant workflows, reducing creation time by 80% and accelerating customer's migration from Unified Service Desk to SaaS.",
       link: "",
-      skills: ["JavaScript", "Dynamics 365", "SaaS"],
+      skills: ["Azure OpenAI", "Semantic Kernel", "Dynamics 365", "AI", "Workflow Automation"],
     },
     {
-      name: "Agent Diagnostic Tool",
+      name: "AI-powered Agent Diagnostic Tool",
       description:
-        "A self-service diagnostic system inside Dynamics 365 that empowered support agents to troubleshoot their own environment issues. By running pre-defined diagnostic rules and generating detailed reports, agents could resolve problems faster and open fewer tickets.",
+        "Built an AI-powered self-service diagnostics copilot in Dynamics 365 that interprets natural-language issue descriptions with LLMs and automatically executes diagnostic workflows (App Profile, Presence, Live Chat). Combined workflow outputs with RAG over internal troubleshooting guides to identify root causes and generate contextual resolution recommendations. Reduced support ticket volume by 60% and resolution time by 45% through LLM troubleshooting and automated reporting.",
       link: "",
-      skills: ["Dynamics 365", "Diagnostics", "Support Tools"],
+      skills: ["LLM", "RAG", "Dynamics 365", "AI Diagnostics", "Natural Language Processing"],
     },
     {
       name: "In-App Messaging for Marketplaces",

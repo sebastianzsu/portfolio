@@ -16,11 +16,11 @@ At this fast-growing car rental startup operating in 160+ countries, I wore mult
 
 project:
 
-Custom Macros for Dynamics (2024)
-I created a feature that lets customers write and run custom JavaScript inside Dynamics to automate repetitive workflows. This became a key enabler for migrating enterprise clients from outdated systems to a modern SaaS platform, making customization both powerful and manageable.
+Macros Agent(2024)
+Developed an AI-driven workflow automation system that converts natural-language descriptions into Dynamics 365 macros(workflows) using Azure openAI and Semantic Kernel. Integrated Dynamics API and best practices to ensure compliant workflows, reducing creation time by 80% and accelerating customer’s migration from Unified Service Desk to SaaS.
 
-Agent Diagnostic Tool (2023)
-I built a self-service diagnostic system inside Dynamics 365 that empowered support agents to troubleshoot their own environment issues. By running pre-defined diagnostic rules and generating detailed reports, agents could resolve problems faster and open fewer tickets. This tool directly improved support efficiency and customer satisfaction.
+AI-powered Agent Diagnostic Tool (2023)
+Built an AI-powered self-service diagnostics copilot in Dynamics 365 that interprets natural-language issue descriptions with LLMs and automatically executes diagnostic workflows (App Profile, Presence, Live Chat). Combined workflow outputs with RAG over internal troubleshooting guides to identify root causes and generate contextual resolution recommendations. Reduced support ticket volume by 60% and resolution time by 45% through LLM troubleshooting and automated reporting.
 
 In-App Messaging for Marketplaces (2021)
 To improve buyer-seller communication, I designed an in-app messaging service with text, image sharing, push notifications, and even broadcast messaging capabilities. By integrating with Twilio’s APIs, the system increased engagement and kept conversations flowing across devices.
